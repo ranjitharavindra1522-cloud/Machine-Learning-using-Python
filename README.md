@@ -65,7 +65,7 @@ jupyter notebook
 
 ## Author
 
-*Project completed as part of the Machine Learning using Python.*
+*Project completed as part of the Herovired Data Science Program.*
 
 ```
 
