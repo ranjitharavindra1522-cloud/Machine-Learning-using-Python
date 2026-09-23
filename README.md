@@ -65,7 +65,7 @@ jupyter notebook
 
 ## Author
 
-*Assignment completed as part of the Machine Learning using Python.*
+*Project completed as part of the Machine Learning using Python.*
 
 ```
 
